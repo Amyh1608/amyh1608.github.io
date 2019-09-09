@@ -21,11 +21,11 @@
 title: Amy Hu 
 email: amyh1608@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my portfolio website. 
+  A work in progress at the moment. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://amy-hu.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  amyh1608
 
 # Build settings
 theme: minima

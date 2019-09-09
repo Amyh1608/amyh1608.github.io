@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+Hi welcome!
+
+**Expection:** A beautiful fully flushed out website. <br>
+**Reality:** A blank canvas waiting to be filled.
