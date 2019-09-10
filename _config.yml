@@ -21,7 +21,7 @@
 title: Amy Hu 
 email: amyh1608@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A work in progress at the moment. 
+  A work in progress as I learn to build this site up :) 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://amy-hu.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
