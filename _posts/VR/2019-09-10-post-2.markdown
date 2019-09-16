@@ -5,10 +5,11 @@ date:   2019-09-10 11:44:45 -0400
 categories: VR
 ---
 
-This week's assignment was the following: 
+This post is a response to the following reading:
 <ol>
-	<li><a href="https://www.theverge.com/2015/10/8/9479129/ivan-sutherland-proto-awards-virtual-reality-speech">An 'ethereal cube' from the 1960s is the reason the Oculus Rift exists</a></li>
-	<li><a href="https://overland.org.au/previous-issues/issue-228/essay-mark-riboldi/">"Controlled Immersion: a special 3D/VR collaboration" by Mark Riboldi</a></li>
+	<li><a href="https://overland.org.au/previous-issues/issue-228/essay-mark-riboldi/">Riboldi, Mark. "Controlled Immersion: a special 3D/VR collaboration." <i>Overland.</i> Spring, 2017. Web. 10 September. 2019. </a></li>
+	<li><a href="https://www.theverge.com/2015/10/8/9479129/ivan-sutherland-proto-awards-virtual-reality-speech">Robertson, Adi. "An 'ethereal cube' from the 1960s is the reason the Oculus Rift exists." <i>The Verge.</i> 08 October, 2012. Web. 10 September. 2019.</a></li>
+	
 </ol>
 
 <img src="http://drive.google.com/uc?export=view&id=1hUVPUYCf-C4Zph1ojvOMXcYg71VPAkVa" width="29%" align="left" style="border:7px solid white" > I wasn't fully aware of how VR development first started with the "Sword of Damocles." Instead, I was aware of how many video game companies had tried to commercialize VR in the past however it didn't get a lot of traction due to the video and computing capabilities at the time. Because the graphics of the screens in older systems, the experiences weren’t as fully immersive as one would expect of virtual reality. Instead VR was something that could only be imagined through many derivatives of media, such as through movies and books.
