@@ -3,7 +3,7 @@ layout: post
 title:  "Field Study and Dream/Daydream Study"
 date:   2019-09-15 11:30
 categories: VR
-
+permalink: /:categories/:title
 ---
 
 <div align="middle">

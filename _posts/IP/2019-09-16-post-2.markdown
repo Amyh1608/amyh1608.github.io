@@ -3,7 +3,7 @@ layout: post
 title:  "100 Representations of Swatches"
 date:   2019-09-16 11:44
 categories: IP
-
+permalink: /:categories/:title
 ---
 
 <p align="middle"><img src="http://drive.google.com/uc?export=view&id=1FaD6Oab1gYepH8LU4-fBMgMmj5wGyxhU" width="25%" align="middle" style="border:10px solid white"><img src="http://drive.google.com/uc?export=view&id=1CQx4sqBlFVXyF-6otseHstyWl4tVV-Ka" width="60%" align="middle" style="border:10px solid white"></p>

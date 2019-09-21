@@ -3,7 +3,7 @@ layout: post
 title:  "Self Portrait"
 date:   2019-09-10 12:44:45 -0400
 categories: IP
-
+permalink: /:categories/:title
 ---
 <img src="http://drive.google.com/uc?export=view&id=1H73SXaupgSgfsKnSJKYKRpO9wjKrsX20" width="50%" align="right"><img src="http://drive.google.com/uc?export=view&id=1H5W5BPWSei3DleaFDmuoxFN6g5uNIMjT" width="50%" align="left">
 
