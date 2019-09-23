@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 3"
+date:   2019-09-20 11:03
+categories: VR
+permalink: /:categories/:title
+---
+
+This week we played with some VR experiences to get a better idea of how we will be building ours. 
+
+<img src="http://drive.google.com/uc?export=view&id=1-U6Vr6W8n484OGLTFc2P7vODQwhseSTw" width="100%" style="border:7px solid white" > 
+
+
+In the Oculus Rift, I was connected into the world of Beat Saber. With the earplugs in and the headset on, most of my senses was fully immersed into the world. However, I couldn’t completely disconnect from the physical reality outside of the virtual world. Even knowing about the digital barrier built to prevent hitting anyone outside of the virtual world, I was a bit worried. Especially when playing, my instincts would tell me to hit hard (especially when I missed hits in the game), but I would pull my punches. It was disorienting since I couldn’t hear what was happening in the space around me, and my gamer urges encouraged me to keep playing. 
+
+In the Oculus Quest, I was connected to an introduction to the VR world and getting used to the capabilities of the controllers. I had previously used an HTC Vive and the difference in how the controllers worked was interesting to me. With the Oculus, the placement of the buttons almost felt natural to my hands but limited the types of movements to select gestures. As I was playing with the different toys in the digital space, it was fun to see how the physics worked and how different objects reacted. I felt more comfortable in this space since I was facing away from people and knew I wouldn’t be accidently hitting people as easily. I could still hear the atmosphere around me, but it was more of secondary noise in the back of my mind. 
+
+<img src="http://drive.google.com/uc?export=view&id=1JJvR1YhbzhJGC9ouBeTOdlmH4SzDK-2p" width="100%" style="border:7px solid white" > 
+
+The Oculus Quest also had two modules to try outside of the main introduction. The first one was a target practice game where you’re shooting laser guns at different shapes. I enjoyed shooting the many targets and was nostalgic to all the fps shooters I played growing up. The second one was a dance simulation with a robot, which I couldn’t get completely immersed due to my self-consciousness. I felt a bit embarrassed dancing in this world, and when I started to get into it, the movements didn’t feel as organic. There was a portion where I was supposed to spin my digital partner, which I couldn’t figure out no matter how I tried. Overall, I felt I was still constricted to happenings of the physical world around me, even though I physically didn’t bump into anything. 
