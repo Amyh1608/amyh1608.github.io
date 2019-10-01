@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2"
+title:  "Week 2: What's "Real"?"
 date:   2019-09-15 11:56 -0400
 categories: VR
 permalink: /:categories/:title
