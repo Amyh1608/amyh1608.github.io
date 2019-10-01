@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Time Capsule 02"
+date:   2019-09-30 2:30
+categories: IP
+permalink: /:categories/:title
+---
+
+<h3>Part 2</h3>
+
+<img src="http://drive.google.com/uc?export=view&id=1FqyHRw0Wojf2tln7s3y8X__i_DfuzvIQ" width="100%" align="middle">
+For this week I brainstormed some time capsules that would be a good representation of me and could help hold everything together in one place. One of the brainstorms I felt I identified the most with was <b>rocket ships</b>. I am a complete space nerd and had volunteered at the California Science Center in brainstorming ideas in building the exhibit for the Endeavor Space Shuttle. I would love to see more space advancements within my lifetime and I started sketching some ideas. 
+
+<img src="http://drive.google.com/uc?export=view&id=1DoBMHq5q4IuoqFKqvcqczBnrwxDqpLTf
+" width="100%" align="middle">
+
+I collected some of the things going into the time capsule and consolidated some pieces together to make it easier to place inside. The photos and pins I had were placed into a clear stationary bag so they wouldn’t get lost. Additionally, I started measuring everything to get a better idea of sizing and to make good use of the space inside of the time capsule. 
+
+<img src="http://drive.google.com/uc?export=view&id=1ahDEUIbSWPkblwRbG5VhQ3SLZBnlDW9l
+" width="100%" align="middle">
+
+I started off with a pre-prototype with some of the materials I had laying around to get a better idea of how to fit everything.
+
+<img src="http://drive.google.com/uc?export=view&id=1UDMYYnmhzDWt-DP0TOMp16ENRle0V55R
+" width="100%" align="middle">
+
+
+I then made a 3D model in Autodesk Fusion of the spaceship design I liked and incorporated the sizing from the measurements and the pre-prototype. In this design, the plan was to laser cut the body and 3D print the cap. I used a half spaceship design to keep the spacing inside tight and to allow the time capsule to lay flat if needed. The hole cut out allows the duck plushie to view the world outside his little space ship. I went to the Makerspace to 3D print the top portion of the spaceship in the evening so I could print with for a longer time. The part I’m usually worried about with 3D printing is that prints can go wrong at any point of the process. For me, my 3D print started messing up on the foundation layer and I had to restart the print multiple times. However, the makerspace was closing by this time, so I watched to make sure the start looked ok and hoped it’ll be okay the next day. 
+
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1FT8oqK0E1BIsn01elXKXfrOeDJND3tPZ
+" width="50%"></p>
+
+The print came out looking a lot better than expected! One mistake I made was that I only copied the .STL file over to my usb to take to the Makerspace. .STL files aren’t usually to scale when you first import them, so it’s important to know the sizing otherwise some liberties will need to be made. The diameter of the top portion was .5in smaller than I needed it to be. With Autodesk Fusion, I had started planning the joints of the body of the rocketship for the 7in diameter. I guessed I would need to change it later, so I had made constraints on my model that could be easily changed to fit the new dimensions. 
+
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1Buz5d9KTW8ZTjnSDG40OETuiMCuTKLtp
+" width="50%"></p>
+
+Laser cuting usually is a fast process, however during my time using it, the machine broke down a couple times. I had made layouts in Autodesk Fusion to help visualize putting the pieces together. After I was done, I exported the drawings into Adobe Illustrator to get the pieces cut out of wood. In addition, I had to make multiple passes on the machine before the material was released from the trace. 
+
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1FlpkVzDuyvaNGDeVgKUpll0bG0upUas7
+" width="50%"><img src="http://drive.google.com/uc?export=view&id=1FplG2K9UtgY9e2yEfATfBz1Jr6K2MNz-
+" width="50%"></p>
+
+ I didn’t realize it when cutting but for this piece, I had made a small error. I had cut through the lower portion of the cylindrical portion of my time capsule where the piece came off from the main wood structure. Nothing a little tape can’t fix. With all my pieces cut out, I can now start to assemble it all together.
+
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1KxQVefvMyi5R5az1aC7HYFp5jhwCj3mf
+" width="100%"></p>
+
+Completed! I was really happy with how it turned out, and Duckie has a new little home he can observe from. The one item I had to leave out of the time capsule was the Shiba dish, since it was meant to be in the cone portion of the rocket. Since the print came out a little bit smaller than expected, the dish no longer fit. However, everything else worked out a lot better than expected despite some upside down words. 
+
+Some Notes for improvement next time: 
+<ul>
+	<li> Take advantage of being able to laser cut templates from cardboard to check for any mistakes before printing on wood. </li>
+	<li> Lower the tolerance of the hinges that connect the wood pieces together. Since the laser cutter is at a lower speed, a lot more material is being burned off. </li>
+	<li> When doing a press fit with 3D printed parts, make the lip deeper to make sure it stays on when pressed together. </li>
+
+</ul>
