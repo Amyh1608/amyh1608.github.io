@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Week 4: CollabVRation Feedback"
+date:   2019-10-8 5:58
+categories: VR
+permalink: /:categories/:title
+---
+
+
+Team: <a ref="https://www.tianyaodai.com/">Tianyao</a> (UX), <a ref="https://wp.nyu.edu/bobyun/">Bo</a> (Artist), <a ref="https://wp.nyu.edu/vrclassblogjoanna/">Joanna </a> (Producer), <a ref="https://wp.nyu.edu/crazycreatives/">Tina</a> (Artist), Amy (Programmer), <a ref="https://waynezz.wixsite.com/virtualreality">Wayne</a> (Artist)<br>
+(A copy of the analysis posted on our producer's site.)
+
+We presented our Escape Game concept, <b>Trick or Treat</b>, to our classmates and gained a lot of valuable feedback:
+
+<ul>
+	<li>Depending on the players actions, if they aren’t correct have other consequences that drive the gameplay.</li>
+	<li>Maybe have multiple endings.</li>
+	<li>The moods of the presentation, demo, and soundtrack don’t seem to fit together to a cohesive theme.</li>
+	<li>Positive reactions to soundtrack where it adds suspense.</li>
+	<li>Maybe change the pictures of the player gaining weight.</li>
+	<li>How could we incorporate gaining weight in a virtual space?</li>
+	<li>How long is the gameplay and the types of puzzles played?</li>
+</ul>
+
+It’s interesting to think about how the story could be influenced by actions taken by the player before the escape portion of the game starts. It could really cause a player to have a great advantage or disadvantage depending on what actions they take. 
+
+Having multiple ideas is a great idea if it’s possible and not too insanely difficult to incorporate into the story. What we could do is create an action map to see what conditions need to be met to cause one ending or another to occur.
+
+Incorporating the FEELING of gaining weight may be difficult other than the feeling one may have when they look down and see they have a big belly. Similar to what Peter Rubin mentioned in Future Presence, when a user sees their avatars have more weight they tend to feel the need to move slower. Another way is maybe have player movements animations look slower but doesn’t impair the player. 
+
+The folks who felt a disconnect between the scary audio and the pretty visuals might not know that the witch wants to eat the player. Maybe to convey the witch wants to eat the participants we can be more explicit with dialogue such as her saying, “Oh, you’re getting nice and plump!”   or  “You look delicious!” 
+
+In answer to what type of puzzles would be played, maybe when the participant is sweeping they are finding many different shapes of keys and they try to open the door with different keys to get out and they can’t.  But then they find one good key, ie., the skeleton key, or a Nice Fairy key, and the door pops open and they run out?
+
+
