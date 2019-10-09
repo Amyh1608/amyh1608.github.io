@@ -7,7 +7,7 @@ permalink: /:categories/:title
 ---
 
 
-Team: <a ref="https://www.tianyaodai.com/">Tianyao</a> (UX), <a ref="https://wp.nyu.edu/bobyun/">Bo</a> (Artist), <a ref="https://wp.nyu.edu/vrclassblogjoanna/">Joanna </a> (Producer), <a ref="https://wp.nyu.edu/crazycreatives/">Tina</a> (Artist), Amy (Programmer), <a ref="https://waynezz.wixsite.com/virtualreality">Wayne</a> (Artist)<br>
+Team: <a href="https://www.tianyaodai.com/">Tianyao</a> (UX), <a href="https://wp.nyu.edu/bobyun/">Bo</a> (Artist), <a href="https://wp.nyu.edu/vrclassblogjoanna/">Joanna </a> (Producer), <a href="https://wp.nyu.edu/crazycreatives/">Tina</a> (Artist), Amy (Programmer), <a href="https://waynezz.wixsite.com/virtualreality">Wayne</a> (Artist)<br>
 (A copy of the analysis posted on our producer's site.)
 
 We presented our Escape Game concept, <b>Trick or Treat</b>, to our classmates and gained a lot of valuable feedback:
