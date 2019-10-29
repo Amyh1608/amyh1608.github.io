@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Macro Project Presentation"
+title:  "Macro Project Alpha"
 date:   2019-10-29 12:45
 categories: macroproject
 permalink: /:categories/:title
