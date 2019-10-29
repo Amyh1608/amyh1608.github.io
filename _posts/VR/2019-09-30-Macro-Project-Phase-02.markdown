@@ -2,7 +2,7 @@
 layout: post
 title:  "Macro Project Phase 02"
 date:   2019-09-30 11:50
-categories: MacroProject
+categories: macroproject
 permalink: /:categories/:title
 ---
 

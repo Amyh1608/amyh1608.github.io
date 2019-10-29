@@ -2,7 +2,7 @@
 layout: post
 title:  "Macro Project Feedback"
 date:   2019-10-21 9:45
-categories: MacroProject
+categories: macroproject
 permalink: /:categories/:title
 ---
 

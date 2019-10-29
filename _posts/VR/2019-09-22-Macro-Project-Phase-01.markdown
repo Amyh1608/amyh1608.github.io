@@ -1,9 +1,9 @@
-----
-layout: post
-title:  "Macro Project Phase 01"
-date:   2019-09-22 4:30
-categories: MacroProject
-permalink: /:categories/:title
+---
+layout:	post
+title:	"Macro Project Phase 01"
+date:	2019-09-22 4:30
+categories:	macroproject
+permalink:	/:categories/:title
 ---
 
 <a href="/macroproject/Macro-Project-Phase-02">Macro Project Phase 02</a> |
