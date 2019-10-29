@@ -7,7 +7,8 @@ permalink:	/:categories/:title
 ---
 
 <a href="/macroproject/Macro-Project-Phase-02">Macro Project Phase 02</a> |
-<a href="/macroproject/Macro-Project-Feedback">Macro Project Feedback</a>
+<a href="/macroproject/Macro-Project-Feedback">Macro Project Feedback</a> |
+<a href="/macroproject/Macro-Project-Alpha">Macro Project Alpha</a>
 <ol>
 	<li> 
 		<b>Description:</b><br> The type of experience I want to build on is an experience with escape room elements. Escape rooms have become popular attractions in the last few years where a team of people locate clues in a room to escape or solve some mission. In escape room flash games, those games were mostly played individually which isn’t common in its attraction counterpart. The character has been in a dreamlike state where the surroundings are a peaceful solitude and a surreal environment. The character can manipulate the atmosphere but over time realizes that the world around is slowly dying and tries to either escape or get out. <br><br>

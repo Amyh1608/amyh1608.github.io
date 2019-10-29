@@ -7,7 +7,8 @@ permalink: /:categories/:title
 ---
 
 <a href="/macroproject/Macro-Project-Phase-01">Macro Project Phase 01</a> |
-<a href="/macroproject/Macro-Project-Phase-02">Macro Project Phase 02</a>
+<a href="/macroproject/Macro-Project-Phase-02">Macro Project Phase 02</a> |
+<a href="/macroproject/Macro-Project-Alpha">Macro Project Alpha</a>
 
 <img src="http://drive.google.com/uc?export=view&id=1UGnyK0Ozbhw_0RuypNU71A1DzVRII1Om" width="100%"><br><br>
 
