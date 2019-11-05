@@ -26,4 +26,4 @@ For my first phase I used a lot of elements from Google Poly and the Unity Asset
 <img src="http://drive.google.com/uc?export=view&id=1JGrk21c61YS_7HlYyx5mJf5XP2kU96AB" width="100%"><br>
 With this feedback, it helped give me context on the part that people felt I could improve on. It seems that more people wanted more interactions and improvement on the lighting. In addition, it seems that in building my environment and interactions with the space, I should add more furniture and accents to the environment. <br>
 
-With this feedback, I feel what I need to focus on is getting the furniture to fit the overall environment inside. No changes on my schedule as of now since my last change, where I will be focusing on the 3D models and building the interactions in Unity.
+With this feedback, I feel what I need to focus on is getting the furniture to fit the overall environment inside. No changes on my schedule as of now since my last change, where I will be focusing on the 3D models and building the interactions in Unity. By focusing on building the interactions listed in my flow diagram, it should help things come along nicely.
