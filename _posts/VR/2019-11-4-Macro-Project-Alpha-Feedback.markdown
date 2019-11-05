@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"Macro Project Alpha Feedback"
-date:	2019-11-4 4:30
+date:	2019-11-4 10:30
 categories:	macroproject
 permalink:	/:categories/:title
 ---
