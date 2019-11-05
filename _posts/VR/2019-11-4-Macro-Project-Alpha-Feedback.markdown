@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Macro Project Student Feedback"
-date: 2019-11-5 09:10
-categories: macroproject
-permalink: /:categories/:title
+layout:	post
+title:	"Macro Project Alpha Feedback"
+date:	2019-11-4 4:30
+categories:	macroproject
+permalink:	/:categories/:title
 ---
+
 
 <a href="/macroproject/Macro-Project-Phase-01">Macro Project Phase 01</a> |
 <a href="/macroproject/Macro-Project-Phase-02">Macro Project Phase 02</a> |
