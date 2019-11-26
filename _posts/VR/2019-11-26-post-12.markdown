@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tina Sauerlander Visit"
+date:   2019-11-26 10:40
+categories: VR
+permalink: /:categories/:title
+---
+
+<img src="http://drive.google.com/uc?export=view&id=1kjkQ-_ftqQfzoizTF5KxbxsYAeJW3idY" width="100%">
+
+Last week we had a visit from Tina Sauerlander, where she spoke about Radiance, a platform described as a Netflix for VR projects. She mentioned how it’s hard to document early VR works before the 2000s, because of how limited the documentation of earlier projects. Machines that hosted VR projects were a lot bigger in size and harder to transfer storage between them. I really enjoyed the project she’s working on because it seems like a great way to learn about work before VR headsets became more ubiquitous and how solutions were made in the past. Especially since a lot of the documentation of older works is lost, it’s harder to refer to other artist’s process in learning how one might improve the work they have laid out so far. 
+
+What was also interesting was that I hadn’t considered how older works were kept and documents or where I would look to find them. It’s a shame that we as viewers can’t experience earlier works because they are stored on a computer tower that may not turn on anymore. It would be interesting to see if older works could be restored or remastered like how older movies do (especially Disney). I know some artist’s may have moved on from their older works, but since the technology has improved I would love to see what parts of a piece would be changed or made better. With how Radiance documents the information and working with ways to display works at museums and students it gives an opportunity to witness the work firsthand but means the file would have to be transferred to the user. If there was a better way to host the experience on a virtual machine or have a limited password that gives access for a limited time period. Though overall, I’m really excited to see how Radiance will improve over time and all the works that get documented on it in the future. 
