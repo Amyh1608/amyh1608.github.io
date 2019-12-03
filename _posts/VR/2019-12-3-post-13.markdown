@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Future Presence Analysis"
+date:   2019-12-3
+categories: VR
+permalink: /:categories/:title
+---
+
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1wqckIRPnNRqgNCW93uFbm2LdtSFGI4Xk" width="50%"></p>
+
+Through reading Future Presence by Peter Rubin, I overall felt amused because references to events are still relevant to this decade and understanding relatable experiences like asking questions on reddit to figure out how to set things up. As I was reading through the chapters, there was a focus in how VR can accomplish bringing presence to a variety of scenarios. However, I couldn’t help but think about moments where I experienced what others may have in a VR experience, without being in one myself. 
+
+One of my favorite chapters was Chapter 6: The Starry Night that Wasn’t There. Moving to New York recently, a lot of my friends are primarily on the West Coast, and sometimes take weeks to reply to messages. Usually the best way to catch up is to video call while binging a show together or hop on discord to play some together. In this chapter, Rubin talks about how you can deepen personal connections through activities in the headset. I challenge this idea because with limitations of not being in the same physical space, there are creative solutions. 
+
+For instance, with Dungeons & Dragons, my friends and I would usually get together for game nights. With some of us moving due to school, we set up a discord channel to make it possible to still play together. And if we wanted to really change it up, we’d be on gamemaster mode in Divinity: Original Sin 2, that captures the essence of D&D perfectly. I love being able to play different forms of the same game because each are endearing in different ways, but at the end of the day it allows me to bond with my friends. When Rubin talks about D&D in VR, I instantly got excited. I could imagine how fun it would be to travel with my companions as we explore the world painted around us as we completed quests. Although, VR isn’t the only way to develop relationships with others, I can agree that it gives more opportunities to do so. 
+
+What is also interesting is how researchers are thinking about how to incorporate touch into VR experiences and usually the common solutions are using haptics or air pressure. Not just a way for a body to feel what’s being experienced in a virtual experience, but also how a physical space would be changed to match the experience. How I imagined the future of VR applications was when people go to sleep, they would be transported into a digital space where they could continue working or relaxing, as their body was able to rest. I felt this way because I love getting into a bunch of hobbies but was frustrated that there wasn’t enough time to do everything. Something that I hadn’t considered before this reading was a future of mixed reality where smart phones wouldn’t be a requirement to bring with you everywhere. 
+
+When Rubin talked about Pokemon Go in Chapter 10, I remembered when it first came out. I tried AR mode at first, but I quickly learned how bulky it felt. I remember holding my phone in odd angles to make sure I was lined up with the pokemon and by the end of the first day AR was turned off. Over the past several years of playing, I’ve learned how to detect other Pokemon Go players and have met some raid buddies doing so. And every time I hung out with them; phones would constantly be out catching pokemon in the presence of other people. Something I wonder is how an interface like this would change if phones wouldn’t be needed in the future. Especially with a lot of AR games coming out the past couple years that take advantage of smart phone technology, it’s hard to imagine something different. 
+
+Overall, I enjoyed reading Future Presence because it helped organized a lot of different types of XR experiences that could further a user’s perception in the space around them. There were moments when I felt myself internally disagreeing with Rubin because I kept thinking of other mediums fit how his descriptions. It also made me also question what experiences are more beneficial to be in VR or not. What I am interested in learning about in the future is how hardware interfaces can be used to transform experiences in larger formats like a room as opposed to using only headsets.
+
