@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "City As Site 04"
+date:   2019-12-3
+categories: IP
+permalink: /:categories/:title
+---
+<h3>Part 4: Synthesize & Reflect</h3>
+For this portion of the project, we wanted to complete our next iteration of our prototype and improve on some aspects with the feedback we received last week. When we watched our prototype perform last week, something we were worried about was that it would blow away or collapse because of the wind. For this iteration, we wanted to make it more bottom heavy with rocks to help ground the structure and also rewrap our project to look more aesthetically pleasing to the eye. 
+<p><img src="http://drive.google.com/uc?export=view&id=1iO-jxN6LJzWQ1QkR0lQQOmvzkDEiWS63" width="49%"><img src="http://drive.google.com/uc?export=view&id=1iO4C-8N_T4FjgxZLbBsHJXWqsP49vSLG" width="49%"></p>
+
+In wrapping the cigarette receptacle, we decided to wrap each can individually where we can get as tight of a wrap we could. We taped the inner portion of the paper to keep the paper in place and hot glued the ends to hold it all in place. After we cut the ends into portions where we could fold it over and secured them in place. With the extra layer of paper, it made it easier to hide the pringles cans underneath and made our prototype look a little more polished for the next iteration. In addition, the paper made the joints between the Pringles cans stronger since the press fit had a lower tolerance.
+<p><img src="http://drive.google.com/uc?export=view&id=1iRDPZRvo8uQHvJ5M4BSFDsENdUk6nAy6" width="49%"><img src="http://drive.google.com/uc?export=view&id=1iSgd8_GLUpBjOIPE0lXtcdUuGA3EL_d7" width="49%"></p>
+
+Another portion we wanted to improve was the ashtray where our feedback was that it was confusing on where to leave the cigarette filters when a user was finished. In addition, in a couple of our user testing, they felt the ashtray was too small. Something we tried was using a deeper container, but we soon noticed that it would be difficult to put hands in it to stub cigarettes. To try to mitigate that, we got chicken wire to try to make the depth less high and with the mesh material it would allow the ash to reach the bottom of the tray without blowing in the wind. We asked someone if this would be a viable solution to our problem, they mentioned that the chicken wire felt out of place and they wouldn’t understand that it would be a place to ash. In addition, it wouldn’t be a good place to stub cigarette butts because of the mesh material and since it’s an open container the ash might still fly out. 
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1in_EXP4OqlsJODw0z4ywjOH7ozTa6O0O" width="60%"></p>
+
+What we did was reach this design where we could also improve on the confusing part of our design, “where do the cigarette butts go?” We decided to use both tins where one would serve as a place to stub out cigarettes and the other would be where the cigarette filters would go. When asking a few people about how they would interact with it, they mentioned that in passing they would likely leave the cigarette butt on the top tray. However, if there were cigarette butts in the lower tray, they would feel more inclined to leave it in the lower one. In addition, we removed the holes from the orange section of our design to help make it clearer for users to leave their cigarette butts. 
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1iTQiIsDDMMRw0RXm1h-6UJO_ejqybFO9" width="60%"></p>
+
+What we want to do this week is to leave our project in the same area as last week and record how many filters we collect within a 3 day period. In doing so, we also want to take the opportunity to learn how this iteration works compared to last week’s and understand if our changes help encourage users to leave their cigarette butts with our system. 
+
+<p align="middle"><img src="http://drive.google.com/uc?export=view&id=1ik5FFVKqRM7plt-GNXTwACVXJ1odHybA" width="50%"></p>
