@@ -9,7 +9,10 @@ permalink: /:categories/:title
 <a href="/macroproject/Macro-Project-Phase-01">Macro Project Phase 01</a> |
 <a href="/macroproject/Macro-Project-Feedback">Macro Project Feedback</a> |
 <a href="/macroproject/Macro-Project-Alpha">Macro Project Alpha</a> |
-<a href="/macroproject/Macro-Project-Alpha-Feedback">Macro Project Alpha Feedback</a>
+<a href="/macroproject/Macro-Project-Alpha-Feedback">Macro Project Alpha Feedback</a> |
+<a href="/macroproject/Macro-Project-Playtesting">Macro Project Playtest</a> |
+<a href="/macroproject/Macro-Project-Beta">Macro Project Beta</a> <br>
+
 <ol>
 	<li> 
 		<b>Schedule:</b><br> At this point of the process, the story and escape has been determined.<img src="http://drive.google.com/uc?export=view&id=1BA2N8BQd0A5yIUDu-5InJk3ux0Yc5sWy" width="100%"><br><br>
