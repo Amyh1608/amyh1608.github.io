@@ -64,3 +64,12 @@ Something that was surprisingly a fun experience was writing the scripts for the
 
 <img src="http://drive.google.com/uc?export=view&id=1y3Nm5vq6Xgo3sGyNsZ6RN0_Ad8zge4BP" width="100%">
 
+<b> Easter Eggs </b> <br>
+For Remnants, as players explored the calm atmosphere of the cabin they would discover clues that would eventually restore their memories and allow them to awake from their coma.
+<ul>
+	<li><b>Poppies:</b> Symbolize sleep, peace, and death. </li>
+	<li><b>REMnants:</b> REM is a type of sleep where dreams are said to be more vivid. </li>
+	<li><b>Music Box:</b> The music box plays, Let it Be by the Beatles, McCartney has a dream of his mother who reassures him during tense times.  </li>
+	<li><b>Violet Evergarden:</b> An anime that explores ghostwriting for other people where the main character comes to term with loss and learning emotions through writing. </li>
+</ul>
+
