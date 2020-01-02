@@ -10,7 +10,8 @@ github: "https://github.com/amyh1608"
 
 
 # Site config
-baseurl: "http://amy-hu.com"
+url: "http://amy-hu.com"
+#baseurl: "http://amy-hu.com"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
