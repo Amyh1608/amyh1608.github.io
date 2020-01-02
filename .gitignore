@@ -1,5 +1,17 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compilation
+.sass-cache/
+_site/
+
+# Logs and db's
+*.log
+*.sql
+*.sqlite

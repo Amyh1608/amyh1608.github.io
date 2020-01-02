@@ -1,0 +1,8 @@
+I"O<p>The Prototype Elevator was a team project where we modeled an elevator in Solidworks, built the
+design, and programed the cart in LabVIEW. My primary role was programming a solid state machine
+to determine which floor our cart was on and how our cart would move to the different floors
+dependent on where it is located. The design features a threaded rod to help with the stability of our
+cart and a triangular prism shape. In this project, we built a digital interface during the initial
+programming phase to simulate and implement each piece of our hardware into our final system.
+</p>
+:ET
