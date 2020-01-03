@@ -11,7 +11,7 @@ project:
   type: "Rapid Prototyping"
   url: ""
   logo: "/assets/images/projects/ara/logo.png"
-  tech: "Arduino, Lasercutter, 3D Printer, Solidworks"
+  tech: "3D Printer, Arduino, Lasercutter, Solidworks"
 
 agency:
   title: 
@@ -32,10 +32,10 @@ images:
     alt: "Project A.R.A."
 ---
 <p>
-Project Automated Robotic Arm uses image and voice recognition to navigate and to pick up small objects. My role was to design the camera mount and to implement voice recognition using Arduino. The ccamera mount housed LEDs that helped contrast our target object against reflective surfaces. Voice commands allow the robotic arm to rotate and travel along the cardinal directions.
+Project Automated Robotic Arm uses image and voice recognition to navigate and to pick up small objects.<br><br> My role was to design the camera mount and to implement voice recognition using Arduino. The camera mount housed LEDs that helped contrast our target object against reflective surfaces. Voice commands allow the robotic arm to rotate and travel along the cardinal directions.
 </p>
 
-<br><br>
+<br>
 <h2>Links</h2> <p>
 <a href="https://youtu.be/YJy9Sxaj2t8"> Voice Demo</a><br>
 <a href="https://youtu.be/2G7dN5xCseU"> Pickup Demo</a>

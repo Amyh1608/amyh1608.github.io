@@ -11,7 +11,7 @@ project:
   type: "Rapid Prototyping"
   url: ""
   logo: "/assets/images/projects/elevator/logo.png"
-  tech: "LabVIEW, Lasercutter, 3D Printer, Solidworks"
+  tech: "3D Printer, LabVIEW, Lasercutter, Solidworks"
 
 agency:
   title: 
