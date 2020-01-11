@@ -12,9 +12,6 @@ project:
   url: ""
   logo: "/assets/images/projects/disney/GO-logo.png"
   tech: "Adobe Photoshop, Autodesk Fusion"
-
-agency:
-  title: 
   year: "2019"
 
 images:

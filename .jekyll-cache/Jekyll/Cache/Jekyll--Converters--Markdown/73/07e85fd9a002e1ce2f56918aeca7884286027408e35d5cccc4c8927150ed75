@@ -1,0 +1,8 @@
+I"h<p>
+Project Automated Robotic Arm uses image and voice recognition to navigate and to pick up small objects.<br /><br /> My role was to design the camera mount and to implement voice recognition using Arduino. The camera mount housed LEDs that helped contrast our target object against reflective surfaces. Voice commands allow the robotic arm to rotate and travel along the cardinal directions.
+</p>
+
+<p><br /></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YJy9Sxaj2t8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/2G7dN5xCseU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+:ET

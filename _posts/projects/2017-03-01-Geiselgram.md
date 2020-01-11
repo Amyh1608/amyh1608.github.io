@@ -12,9 +12,6 @@ project:
   url: "http://amy-hu.com/Geiselgram/"
   logo: "/assets/images/projects/geiselgram/logo.png"
   tech: "CSS, HTML, Photoshop, Javascript"
-
-agency:
-  title: 
   year: "2017"
 
 images:

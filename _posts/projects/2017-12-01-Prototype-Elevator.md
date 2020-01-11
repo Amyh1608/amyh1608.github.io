@@ -12,9 +12,6 @@ project:
   url: ""
   logo: "/assets/images/projects/elevator/logo.png"
   tech: "3D Printer, LabVIEW, Lasercutter, Solidworks"
-
-agency:
-  title: 
   year: "2017"
 
 images:

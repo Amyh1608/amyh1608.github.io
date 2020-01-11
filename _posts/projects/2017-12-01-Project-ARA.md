@@ -12,9 +12,6 @@ project:
   url: ""
   logo: "/assets/images/projects/ara/logo.png"
   tech: "3D Printer, Arduino, Lasercutter, Solidworks"
-
-agency:
-  title: 
   year: "2017"
 
 images:
@@ -36,7 +33,5 @@ Project Automated Robotic Arm uses image and voice recognition to navigate and t
 </p>
 
 <br>
-<h2>Links</h2> <p>
-<a href="https://youtu.be/YJy9Sxaj2t8"> Voice Demo</a><br>
-<a href="https://youtu.be/2G7dN5xCseU"> Pickup Demo</a>
-</p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YJy9Sxaj2t8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/2G7dN5xCseU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>

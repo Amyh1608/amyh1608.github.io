@@ -12,9 +12,6 @@ project:
   url: ""
   logo: "/assets/images/projects/pinball/logo.png"
   tech: "3D Printer, Arduino, Autodesk Fusion, Laser Cutter"
-
-agency:
-  title: 
   year: "2018"
 
 images:

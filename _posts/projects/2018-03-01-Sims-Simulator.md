@@ -12,9 +12,6 @@ project:
   url: "https://youtu.be/AzQp61fmH00"
   logo: "/assets/images/projects/sims/logo.png"
   tech: "3D Printer, Arduino, Adobe Premiere, Adobe Photoshop, Solidworks"
-
-agency:
-  title: 
   year: "2018"
 
 images:
@@ -45,6 +42,4 @@ The purpose of this project was to bring the game Sims into a physical space and
 Each LED representatives individual “needs” the program is accounting for when weighing actions. If actions aren't completed within a specified timeframe, the users health goes down. 
 </p>
 <br>
-<h2>Links</h2> <p>
-<a href="https://youtu.be/AzQp61fmH00"> Video</a>
-</p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AzQp61fmH00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>

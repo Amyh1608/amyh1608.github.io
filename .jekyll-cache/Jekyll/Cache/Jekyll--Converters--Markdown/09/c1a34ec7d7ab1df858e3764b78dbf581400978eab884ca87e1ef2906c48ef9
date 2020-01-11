@@ -1,14 +1,14 @@
-I"<p>
+I"}<p>
 Remnants is a VR experience that has escape room elements. The player finds themselves in a peaceful cabin in the middle of the woods. As they interact with the objects in the room, they will regain their memories before they can leave. <br /><br />
 
-Shown are the models built in Maya. Inspect the page to learn more about the story :)
+In my initial Unity environment, I built the room using primatives and premade assets. After gaining feedback from classmates, I decided to focus on using low-poly assets and to make models in Maya to supplement the environment I was envisioning. <br /><br />
+
+Inspect the page to learn more about the story :)
 
 </p>
 <p><br /></p>
-<h2>Links</h2>
-<p>
-<a href="https://youtu.be/SlmQLwoLkYI"> Video Playthough</a>
-</p>
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/SlmQLwoLkYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <!--
 
